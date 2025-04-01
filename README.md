@@ -1,44 +1,48 @@
-# 🚀 Tisha Mahato – Frontend Developer | Cybersecurity Enthusiast  
+# **🚀 Self-Introduction – Tisha Mahato**
 
-## 👩‍💻 About Me  
-Hi there! I'm **Tisha Mahato**, a **passionate frontend developer** and a **cybersecurity enthusiast**, currently pursuing **B.Tech in Computer Science & Engineering with a specialization in Cybersecurity and Digital Forensics** at **VIT Bhopal** (2021-2025).  
+## **👩‍💻 About Me**  
+Hello! My name is **Tisha Mahato**, and I am a **frontend developer, cybersecurity enthusiast, and blockchain innovator** currently pursuing **B.Tech in Computer Science and Engineering with a specialization in Cybersecurity and Digital Forensics** at **Vellore Institute of Technology, Bhopal (2021-2025).**  
 
-I thrive on **building scalable, user-friendly applications**, optimizing performance, and ensuring security in web and mobile applications. My expertise spans across **frontend frameworks, backend APIs, and blockchain development**, with a keen interest in **AI-powered task management systems, smart contracts, and real-time web applications**.  
+With a deep passion for **technology, problem-solving, and user-centric design**, I have worked on **real-time web applications, AI-powered task management systems, blockchain smart contracts, and cybersecurity-driven solutions**. I love developing **scalable, high-performance applications** that improve user experience and optimize workflows.  
 
-## 🔥 What I Do  
-- **Frontend Development** – Crafting intuitive and responsive user interfaces using **ReactJS, Next.js, Angular, HTML, CSS, Tailwind CSS, and JavaScript**.  
-- **Full-Stack Development** – Building seamless web applications with **Node.js, NestJS, MySQL, PostgreSQL**, and integrating secure authentication mechanisms like **JWT and OAuth**.  
-- **Blockchain & Smart Contracts** – Implementing **Merkle-proof-based transaction verification** on **Ethereum (Sepolia) and zkSync**, developing secure **Solidity** contracts.  
-- **AI & Automation** – Leveraging **OpenAI/Gemini APIs** to build **real-time AI-powered task management systems**, enhancing productivity and user experience.  
-- **Cloud Computing & DevOps** – AWS Certified **Solutions Architect Associate**, familiar with **Docker, Kubernetes, and cloud deployment (Vercel, Render, Fly.io)**.  
-- **Cybersecurity & Secure Coding** – Enthusiastic about **ethical hacking, penetration testing**, and ensuring robust application security practices.  
+## **🎯 Technical Expertise**  
+I specialize in **frontend and full-stack development**, with experience in:  
+✔ **Frontend Technologies**: ReactJS, Next.js, Angular, JavaScript, HTML, CSS, Tailwind CSS  
+✔ **Backend Development**: Node.js, NestJS, Golang (Gin/Fiber), PostgreSQL, MySQL  
+✔ **Blockchain & Smart Contracts**: Solidity, Merkle Proofs, Ethereum (Sepolia), zkSync  
+✔ **Cloud & DevOps**: AWS (Certified Solutions Architect), Docker, Kubernetes, Vercel, Render, Fly.io  
+✔ **Cybersecurity & Secure Coding**: Ethical hacking, penetration testing, secure authentication  
+✔ **AI & Automation**: OpenAI/Gemini API, WebSockets, Slack/Discord bot integration  
 
-## 📌 Notable Projects  
+## **📌 My Projects & Contributions**  
+### 🔹 **AI-Powered Real-Time Task Management System**  
+- Built an AI-integrated **task management platform** with **Next.js (TypeScript) and Golang**.  
+- Integrated **WebSockets for real-time updates, JWT authentication, and AI-powered task suggestions**.  
+- Added **Slack/Discord bot integration** for automated task scheduling.  
 
-### 🔹 AI-Powered Task Management System  
-- Built a **real-time task management platform** using **Golang (Gin/Fiber)** and **Next.js (TypeScript)**.  
-- Integrated **WebSockets, JWT authentication, and AI-powered task suggestions**.  
-- Designed a **Slack/Discord bot integration** for seamless workflow automation.  
+### 🔹 **Blood Bank System**  
+- Developed a **secure and responsive platform** that connects **blood donors and recipients**.  
+- Implemented **role-based authentication and donor-recipient matching** using **ReactJS and Node.js**.  
 
-### 🔹 Blood Bank System  
-- Developed a **secure and responsive platform** to connect **blood donors and recipients** using **ReactJS and Node.js**.  
-- Implemented **role-based authentication and donor-recipient matching system**.  
+### 🔹 **Smart Contract for Blockchain Transactions**  
+- Designed a **smart contract for verifying transactions** using **Merkle proofs on Ethereum Sepolia and zkSync**.  
+- Developed an **interactive frontend** for users to validate transactions efficiently.  
 
-### 🔹 Smart Contract for Blockchain Transactions  
-- Created a **smart contract to verify transactions using Merkle proofs** on **Ethereum Sepolia & zkSync**.  
-- Developed an **interactive React frontend** for user-friendly verification.  
+### 🔹 **SAAJHA – NGO Platform**  
+- Spearheaded a **UI/UX revamp**, increasing **donations by 20%** and **volunteer registrations by 40%**.  
+- Optimized the user experience, ensuring seamless navigation between **donors and organizations**.  
 
-### 🔹 NGO Platform – SaaJHA  
-- Led the **UI/UX revamp**, increasing **donations by 20%** and **volunteer registrations by 40%**.  
-- Ensured **seamless donor-organization interaction** and enhanced accessibility.  
+## **🏆 Achievements & Certifications**  
+- 🏆 **Winner – GeeksforGeeks 30-Day Coding Challenge**  
+- 🏆 **Winner – Deutsche Bank & GeeksforGeeks 21-Day Coding Challenge**  
+- 🎖 **AWS Certified Solutions Architect Associate**  
+- 🏅 **Runner-up – Tech Quiz Event**  
+- 📜 **Salesforce Developer Virtual Internship**  
+- 🎖 **Android Jetpack Compose UI Revamp – 40% user engagement boost**  
 
-## 🏆 Achievements & Certifications  
-- **🏆 GeeksforGeeks 30-Day Coding Challenge Winner**  
-- **🥈 Runner-up in Tech Quiz Event**  
-- **🏆 Deutsche Bank & GeeksforGeeks 21-Day Coding Challenge Winner**  
-- **🎖 AWS Certified Solutions Architect Associate**  
-- **📜 Salesforce Developer Virtual Internship**  
-- **🎖 Android Jetpack Compose UI Revamp – 40% engagement boost**  
+## **💡 Why I Love Technology**  
+From an early age, I was fascinated by how technology **shapes the world**, which led me to dive deep into **coding, security, and web development**. I enjoy **solving complex problems, optimizing user experiences, and staying up-to-date with emerging technologies**. My projects focus on **efficiency, scalability, and security**, ensuring that I build solutions that make a real impact.  
+
 
 ## 📫 Let's Connect!  
 - 📧 **Email**: [tishaamahato10@gmail.com](mailto:tishaamahato10@gmail.com)  
