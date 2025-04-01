@@ -1,4 +1,4 @@
-# **🚀 Self-Introduction – Tisha Mahato**
+# **🚀  Tisha Mahato**
 ## **👩‍💻 About Me**  
 Hello! My name is **Tisha Mahato**, and I am a **frontend developer, cybersecurity enthusiast, and blockchain innovator** currently pursuing **B.Tech in Computer Science and Engineering with a specialization in Cybersecurity and Digital Forensics** at **Vellore Institute of Technology, Bhopal (2021-2025).**  
 
